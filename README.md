@@ -1,12 +1,12 @@
 <img align="center" alt="Coding" width="1200" src="https://i.ibb.co/JkY4kPR/Untitled-design-1.png"> 
 </br>
-## Stats
+ Stats
 </br>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanjib10&theme=shadow-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
 </p>
 </br>
-## Technologies that I know
+ Technologies that I know
 </br>
 </br>
 <p align="center">
@@ -15,7 +15,7 @@
   </a>
 </p>
 </br>
-## Languages I used
+ Languages I used
 </br>
 </br>
 <p align="center">
