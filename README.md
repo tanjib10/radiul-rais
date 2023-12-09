@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1200" src="https://i.ibb.co/JkY4kPR/Untitled-design-1.png"> 
 </br>
- ##Stats
+ #Stats
 </br>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanjib10&theme=shadow-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
