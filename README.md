@@ -12,3 +12,4 @@
   </a>
 </p>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/tanjib10/svg/avgupta456/langs)](https://githubtrends.io)
