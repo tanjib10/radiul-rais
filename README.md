@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" src="https://i.ibb.co/Rbhd5mW/Your-paragraph-text.png"> 
+<img align="center" alt="Coding" width="1200" src="https://www.canva.com/design/DAF2fezeqNg/wiywqsaQL3dyVa91eZ8Iwg/view?utm_content=DAF2fezeqNg&utm_campaign=designshare&utm_medium=link&utm_source=editor"> 
 </br>
 ## Stats
 </br>
