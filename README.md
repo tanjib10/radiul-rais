@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" src="https://i.ibb.co/WHdc5RV/Untitled-design.png"> 
+<img align="center" alt="Coding" width="1200" src="https://i.ibb.co/JkY4kPR/Untitled-design-1.png"> 
 </br>
 ## Stats
 </br>
