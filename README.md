@@ -6,7 +6,9 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanjib10&theme=shadow-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
 </p>
 </br>
- Technologies that I know
+<h3>Technologies that I know</h3>
+</br>
+</br>
 </br>
 </br>
 <p align="center">
@@ -15,7 +17,7 @@
   </a>
 </p>
 </br>
- Languages I used
+ <h3>Languages I used most</h3>
 </br>
 </br>
 <p align="center">
