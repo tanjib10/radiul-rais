@@ -2,8 +2,6 @@
 
 ## Stats
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tanjib10&theme=transparent&hide_border=true&card_width=600" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanjib10&theme=shadow-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
 </p>
 
