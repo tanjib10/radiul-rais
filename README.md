@@ -12,4 +12,4 @@
   </a>
 </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tanjib10/langs)](https://githubtrends.io)
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={tanjib10}&theme={radical}&exclude={html,css,javascript}
