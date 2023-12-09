@@ -14,6 +14,6 @@
 </br>
 ## Languages I used
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjib10&theme=radical&exclude=html,css,javascript" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjib10&theme=radical&exclude=html,css,javascript,react,mongodb" alt="Top Languages" />
 </p>
 </br>
