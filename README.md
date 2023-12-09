@@ -12,4 +12,4 @@
   </a>
 </p>
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={tanjib10}&theme={radical}&exclude={html,css,javascript}
+(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={tanjib10}&theme={radical}&exclude={html,css,javascript})
