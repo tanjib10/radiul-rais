@@ -1,11 +1,14 @@
 <img align="center" alt="Coding" width="1200" src="https://i.ibb.co/Rbhd5mW/Your-paragraph-text.png"> 
 </br>
 ## Stats
+</br>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanjib10&theme=shadow-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
 </p>
 </br>
 ## Technologies that I know
+</br>
+</br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,firebase,git,github,html,js,tailwind,react,mongodb,vite" />
@@ -13,6 +16,8 @@
 </p>
 </br>
 ## Languages I used
+</br>
+</br>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanjib10&theme=radical&exclude=html,css,javascript,react,mongodb" alt="Top Languages" />
 </p>
