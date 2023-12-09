@@ -5,10 +5,10 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanjib10&theme=shadow-purple&hide_border=true&card_width=600" alt="GitHub Streak" /></a>
 </p>
 
-## Skills
+## Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,firebase,git,github,html,js,react,mongodb,vite" />
+    <img src="https://skillicons.dev/icons?i=css,firebase,git,github,html,js,tailwind,react,mongodb,vite" />
   </a>
 </p>
 
