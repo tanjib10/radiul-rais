@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" src="https://i.ibb.co/JkY4kPR/Untitled-design-1.png"> 
+<img align="center" alt="Coding" width="1200" src="https://i.ibb.co/wBnsq6f/Radiul-Rais.png"> 
 </br>
  <h3>Stats</h3>
 </br>
